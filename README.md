@@ -1,2 +1,2 @@
 # sentiment-analysis
-For further explanation about this project, see file TextAnalytics_Regenmagier.pdf
+For further explanation about this project, see TextAnalytics_Regenmagier.pdf
